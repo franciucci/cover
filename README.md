@@ -3,8 +3,8 @@
 ## I'm a Jr. Frontend Developer
 
 :computer: **_Stack:_**
-* HTML5
-* CSS3
+* HTML
+* CSS
 * Javascript
 * React.js
 
